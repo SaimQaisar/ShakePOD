@@ -1,0 +1,16 @@
+PODS:
+  - ShakePOD (0.1.0)
+
+DEPENDENCIES:
+  - ShakePOD (from `../`)
+
+EXTERNAL SOURCES:
+  ShakePOD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ShakePOD: ba5d0115dc331524e5c6d4972f57431effedc9e5
+
+PODFILE CHECKSUM: 3ef3c6a653bda77294d3ab4ef1681c2120498acb
+
+COCOAPODS: 1.8.4

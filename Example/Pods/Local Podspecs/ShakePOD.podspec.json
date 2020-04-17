@@ -1,0 +1,22 @@
+{
+  "name": "ShakePOD",
+  "version": "0.1.0",
+  "summary": "A short description of ShakePOD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Saim Butt/ShakePOD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Saim Butt": "saim.butt@virtualforce.io"
+  },
+  "source": {
+    "git": "https://github.com/Saim Butt/ShakePOD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ShakePOD/Classes/**/*"
+}

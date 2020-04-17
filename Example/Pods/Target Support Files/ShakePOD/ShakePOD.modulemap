@@ -1,0 +1,6 @@
+framework module ShakePOD {
+  umbrella header "ShakePOD-umbrella.h"
+
+  export *
+  module * { export * }
+}
